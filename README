@@ -1,0 +1,7 @@
+A docker image for Rocket.
+
+To run, call
+
+docker run tomaslin/rocket help
+
+The default entry point is the rkt command
